@@ -1,9 +1,5 @@
 site_name: Site for students from group P3123
 site_url: https://ngoctruong22.github.io/demo702/
-
-repo_url: https://github.com/ngoctruong22/demo702
-repo_name: ngoctruong22/demo702
-
 nav:
     - Home: index.md
     - About: about.md
